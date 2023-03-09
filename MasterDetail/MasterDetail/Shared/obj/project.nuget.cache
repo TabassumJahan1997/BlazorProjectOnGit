@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydUDk1xuHHWEB7jgCQ2Uznfj8BDNrDCVrS6AlhMXVWuCItJ9Qoycu4t5H3BMgpAjnZvj5QravsbpBSqMy5lubw==",
+  "success": true,
+  "projectFilePath": "E:\\BlazorProject\\MasterDetail\\MasterDetail\\Shared\\MasterDetail.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MY\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\MY\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\MY\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
